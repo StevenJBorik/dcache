@@ -1,0 +1,5 @@
+/Users/Borblob/dotnet/dcache/obj/Debug/net6.0/dcache.csproj.AssemblyReference.cache
+/Users/Borblob/dotnet/dcache/obj/Debug/net6.0/dcache.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Borblob/dotnet/dcache/obj/Debug/net6.0/dcache.AssemblyInfoInputs.cache
+/Users/Borblob/dotnet/dcache/obj/Debug/net6.0/dcache.AssemblyInfo.cs
+/Users/Borblob/dotnet/dcache/obj/Debug/net6.0/dcache.csproj.CoreCompileInputs.cache
